@@ -1,31 +1,19 @@
 # Meal Planner
 
-A meal-planning application built with React and TypeScript.
+This is a meal-planning application I am building using React and TypeScript.
 
-The project is designed to help users organize recipes, create weekly meal plans, adjust recipes based on serving size, and generate grocery lists from selected meals.
+The goal of the project is to make it easier to organize recipes, plan meals for the week, adjust ingredient quantities based on serving size, and generate a grocery list.
 
-## Features
+## What I have worked on so far
 
-Current features include:
+- Created structured data for recipes and ingredients
+- Created TypeScript types for the main data in the app
+- Added recipe-related service logic
+- Added validation for recipe data
+- Started building the React interface
+- Started working on meal-planning and grocery-list logic
 
-- Structured recipe and ingredient data
-- Recipe and ingredient validation
-- Serving-size scaling
-- Weekly meal-planning logic
-- Grocery-list generation
-
-## In Progress
-
-I am currently working on:
-
-- Recipe browsing and search
-- Filtering by cuisine and dietary preferences
-- Manual weekly meal planning
-- Automatic meal-plan generation
-- Pantry tracking
-- Improved user interface
-
-## Tech Stack
+## Technologies
 
 - React
 - TypeScript
@@ -33,20 +21,6 @@ I am currently working on:
 - HTML
 - CSS
 
-## Project Structure
+## Current Status
 
-The project currently includes separate files for:
-
-- recipe and ingredient data
-- TypeScript data models
-- recipe services
-- validation logic
-- React components and styling
-
-## Running the Project
-
-After cloning the repository:
-
-```bash
-npm install
-npm run dev
+This project is still in development.
